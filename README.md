@@ -1,5 +1,6 @@
 
-<p align="center"> <img src="https://imgur.com/BASzVop.png" alt="HTML e CSS: praticando HTML e CSS"> </p>
+<p align="center"> <img src="![download](https://github.com/giovanaJoaquim/TrabalhoPrimeiroB/assets/106316786/d77744ce-53d0-401f-8329-887581e05f8a)
+"> </p>
 
 <hr>
 
