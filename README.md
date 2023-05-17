@@ -1,6 +1,6 @@
 
-<p align="center"> <img src="![download](https://github.com/giovanaJoaquim/TrabalhoPrimeiroB/assets/106316786/d77744ce-53d0-401f-8329-887581e05f8a)
-"> </p>
+<p align="center"> <img src="!(https://github.com/giovanaJoaquim/TrabalhoPrimeiroB/assets/106316786/37f654d8-266f-472d-a521-8e3731666d9d)
+!"> </p>
 
 <hr>
 
